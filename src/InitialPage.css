@@ -1,0 +1,35 @@
+.Button{
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color:#FFA500;
+}
+.fl{
+    padding-top: 150px;
+    padding-left: 500px;
+}
+.Button1{
+    
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color:#87CEEB;
+}
+.al{
+    padding-left: 500px;
+    padding-top: 20px;
+}
+.Button2{
+    
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color:greenyellow;
+}
+.hd{
+    color:white;
+    text-align: center;
+}
