@@ -3,7 +3,7 @@ var express=require('express');
 var connection = mysql.createConnection({
   host:"localhost",
   user:"root",
-  password:"sneha",
+  password:"koushik",
   database:"se"
 });
 var FacultyLogin=express();
